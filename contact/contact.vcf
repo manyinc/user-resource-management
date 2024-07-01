@@ -1,0 +1,40 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Jan;Nowak;;Example |;
+FN:Example | Nowak Jan
+EMAIL:j.nowak@example.com
+TEL;CELL:123 456 789
+ORG:Example;Kierownik Projektu
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Marek;Kowalski;;Example |;
+FN:Example | Kowalski Marek
+EMAIL:m.kowalski@example.com
+TEL;CELL:351234567890123
+ORG:Example;Inżynier
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Anna;Wiśniewska;;Example |;
+FN:Example | Wiśniewska Anna
+EMAIL:a.wisniewska@example.com
+TEL;CELL:111 222 333
+ORG:Example;Analityk
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Paweł;Lewandowski;;Example |;
+FN:Example | Lewandowski Paweł
+EMAIL:p.lewandowski@example.com
+TEL;CELL:357159753486213
+ORG:Example;Technik
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Katarzyna;Zielińska;;Example |;
+FN:Example | Zielińska Katarzyna
+EMAIL:k.zielinska@example.com
+TEL;CELL:860123456789012
+ORG:Example;Specjalista ds. HR
+END:VCARD
