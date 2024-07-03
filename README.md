@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 4. Run the application:
 ```bath
-python your_app_file.py
+python main.py
 ```
 
 ## Features
