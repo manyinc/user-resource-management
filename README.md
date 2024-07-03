@@ -43,6 +43,6 @@ python your_app_file.py
 2. Use the buttons in the left panel to navigate and perform actions:
 - **New User**: Fill in user details and click "Add user to database".
 - **QR Code**: Enter link and name, select color option, and click "Generate QR code".
-- **Addons**: Check desired options and click "Complete" to generate.
+- **Addons**: Check desired options (Generate:mail signature, contact file, send them by mail to selected user, print login and password, send bookmarks) and click "Complete" to generate.
 - **User Info**: Search for users by name or data and view details.
 - **Protocol**: Enter user ID and select protocol type, then click "Generate Protocol".
